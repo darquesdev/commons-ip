@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../dc.xsd">
+    <contributor>contributor archive test</contributor>
+    <description>description archive test</description>
+    <identifier>identifier archive test</identifier>
+    <title>title archive test</title>
+</simpledc>
